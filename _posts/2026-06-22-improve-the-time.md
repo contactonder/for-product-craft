@@ -5,13 +5,15 @@ title: "Improve the Time: A Manifesto on Product, Silence, and Showing Up"
 
 On a recent afternoon in Market Harborough, I stood in front of the old stone sundial on St. Dionysius church. Carved above the shadow line are three simple words: *Improve the Time.*
 
+![The stone sundial at St. Dionysius Church]({{ site.baseurl }}/images/01_Improve_Time.png)
+
 It stopped me cold.
 
-In over a decade working in UK tech, I’ve rarely heard anyone talk about time this way. We obsess over optimizing it, accelerating it, or hacking it. Almost never improving it.
+In over a decade working in UK/US tech, I’ve rarely heard anyone talk about time this way. We obsess over optimizing it, accelerating it, or hacking it. Almost never improving it.
 
 For me, that phrase hit harder because of where I come from.
 
-I grew up in a culture that deeply values silence. The saying I heard again and again was: *Only the ripened wheat stalks bow their heads.* Real substance doesn’t need to announce itself. You speak only when your words are more valuable than the silence they break, something we called the "wisdom of pearls."
+I grew up in a culture that deeply values silence. The saying I heard again and again was: *Only the ripened wheat stalks bow their heads.* Real substance doesn’t need to announce itself.  
 
 That mindset served me well as a Product Manager. For years I stayed low, focused on shipping products, scaling teams, and doing the work quietly. I believed strong execution would speak for itself.
 
