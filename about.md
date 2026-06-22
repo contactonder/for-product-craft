@@ -4,17 +4,17 @@ title: About Me
 permalink: /about/
 ---
 
-I am a Product Manager obsessed with the modern craft of product management—balancing deep strategy, execution rigor, and user psychology to build world-class experiences. 
+I'm a Product Manager who’s deeply focused on the craft of building great products. I enjoy bringing together clear strategy, disciplined execution, and real user psychology to create experiences that matter.
 
-This space is my digital workbench where I dissect product frameworks, share contrarian takes on product design, and archive my learnings on what it takes to operate at the top tier of global tech teams.
+This space is my digital playground. It’s where I break down product frameworks, share my contrarian thoughts on design and strategy, and keep an honest record of what I’m learning about operating at a high level in global tech teams.
 
 ### What I Focus On
-* **Product Strategy & Vision:** Aligning engineering power with massive market opportunities.
-* **Execution & Craft:** Moving from chaotic feature roadmaps to outcome-driven product delivery.
-* **Growth Analytics:** Leveraging data loops to optimize retention and user value.
+* **Product Strategy & Vision:** Aligning engineering firepower with big, meaningful market opportunities.
+* **Execution & Craft:** Turning chaotic feature lists into clean, outcome-driven product delivery.
+* **Growth Analytics:** Using smart data loops to improve retention and deliver real user value.
 
 ### Let's Connect
-Feel free to reach out if you want to swap product war stories or discuss building something zero-to-one.
+Feel free to reach out if you want to swap product war stories or nerd out about building something from zero to one.
 
 * **LinkedIn:** [Onder](https://www.linkedin.com/in/onder-ozcan-6b463033/)
-* **Email:** [contact onder](mailto:onderr@gmail.com)
+* **Email:** [Onder](mailto:onderr@gmail.com)
