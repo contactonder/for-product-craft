@@ -5,7 +5,12 @@ title: "Improve the Time: A Manifesto on Product, Silence, and Showing Up"
 
 On a recent afternoon in Market Harborough, I stood in front of the old stone sundial on St. Dionysius church. Carved above the shadow line are three simple words: *Improve the Time.*
 
-![The stone sundial at St. Dionysius Church]({{ site.baseurl }}/images/01_Improve_Time.png)
+<div style="margin: 40px auto; max-width: 450px; text-align: center; border: 1px solid #eee; padding: 15px; border-radius: 4px; background: #fafafa;">
+  <img src="{{ site.baseurl }}/images/01_Improve_Time.png" alt="St. Dionysius" style="width: 100%; height: auto; border-radius: 2px;">
+  <p style="margin: 10px 0 0 0; font-size: 0.85rem; color: #666; font-style: italic;">
+    St. Dionysius Church, Market Harborough. "Improve the Time."
+  </p>
+</div>
 
 It stopped me cold.
 
