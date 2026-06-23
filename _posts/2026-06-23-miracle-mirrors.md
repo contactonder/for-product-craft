@@ -1,42 +1,40 @@
 ---
 layout: post
-title: "Miracle Mirrors: the Terror of Self-Knowledge"
+title: "Funhouse Mirrors: Why We Run From Self-Knowledge"
 ---
 
-When the Tunisian football federation sacked head coach Sabri Lamouchi immediately after a 5-1 opening match loss to Sweden, they expected a reset. Instead, under an interim replacement, they went down 4-0 to Japan just days later. 
+When the Tunisian football federation sacked head coach Sabri Lamouchi right after a 5-1 opening loss to Sweden, they expected a reset. Days later, under an interim coach, they lost 4-0 to Japan.
 
-Meanwhile, Sweden suffered an identical fate later in the tournament, collapsing 5-1 against the Netherlands. Yet, the Swedish camp did not panic. They kept their structure intact and moved forward.
+Sweden, meanwhile, suffered an identical 5-1 thrashing later in the tournament — this time against the Netherlands. Their response? They kept their structure, stayed calm, and moved on.
 
-The contrast reveals something far deeper than a failure of tactical management. It highlights an ancient flaw in human psychology: how desperately we run away from the command to know ourselves.
+The difference wasn’t tactics. It was something deeper: the ability to face reality without panicking.
 
-### The Circus Mirror of the Ego
+**The Circus Mirror of the Ego**
 
-Engraved on the ancient Temple of Delphi was a simple, brutal command: *Know thyself.* It remains the ultimate challenge of human development because true self-awareness requires us to confront our actual limitations, our institutional debt, and our systemic flaws.
+Ancient Greeks carved “Know thyself” on the Temple of Delphi. It remains one of the hardest commands in human life. Real self-knowledge forces you to confront your actual limits, your institutional weaknesses, and your blind spots.
 
-Human psychology naturally rebels against this. To protect our egos, we prefer the comfort of circus funhouse mirrors. 
+Most people and organizations prefer circus funhouse mirrors.
 
-When an organization is winning, it looks into a distorting mirror that magnifies its reflection, convincing its leaders they are invincible giants. They mistake a favorable market condition or a stroke of luck for flawless internal capability. 
+When things are going well, the mirror magnifies. A lucky market tailwind or one strong product launch gets interpreted as proof of genius. Leaders start believing they’re invincible.
 
-But the moment a crisis hits—whether it is a 5-1 football thrashing or a product launch that entirely misses its revenue targets—the glass curves the other way. Suddenly, the reflection looks like a midget. 
+Then a crisis hits — a disastrous product launch, missed targets, or in Tunisia’s case, another heavy defeat. Suddenly the mirror shrinks you into a midget. The ego panics and demands a scapegoat.
 
-Instead of looking deeply into the mirror to analyze the actual system, human panic takes over. The ego demands an immediate scapegoat to protect its self-image. 
+**Sacking the Reflection**
 
-### Sacking the Reflection
+This is why leadership changes so often feel frantic and ineffective. Firing the coach (or the Head of Product) is rarely a calm strategic move. It’s a psychological defense mechanism.
 
-This is why leadership changes happen so frantically under pressure. Sacking a manager or executing a sudden organizational reboot is rarely a strategic decision. It is an psychological defense mechanism. 
+By removing the person at the top, the organization can reassure itself: *The system isn’t broken. Our identity is solid. It was just that one guy.* 
 
-By firing the person at the helm, the organization can tell itself: *The system isn't broken. Our core identity is fine. It was just this one individual holding us back.* It is a complete delusion. It is the equivalent of smashing a circus mirror because you do not like the shape of your body in the reflection. It is a performance of simulated action designed to bypass the difficult, quiet work of internal assessment.
+It’s the corporate version of smashing the mirror because you don’t like what you see. The name on the door changes, but the structural problems remain. Tunisia changed coaches and collapsed again. The rot was never addressed.
 
-This is why Tunisia collapsed again against Japan. The interim coach was thrown into a system that still refused to understand its own baseline dynamics. They changed the name on the door, but left the structural rot untouched.
+**The Power of a Steady Baseline**
 
-### The Power of a Steady Baseline
+Elite teams like Sweden don’t spiral because they’ve done the hard work of knowing themselves. They have a clear, undistorted view of their baseline capabilities. A bad result is treated as data, not an existential threat.
 
-The reason elite cultures like Sweden do not execute frantic pivots when they suffer an identical 5-1 loss is because they have done the psychological heavy lifting of knowing themselves. 
+In product and organizational leadership, you will face the same warped mirrors. Revenue misses. Failed launches. Team breakdowns.
 
-They know their baseline capabilities. They possess the psychological safety to separate a bad outcome from an existential crisis. When you have a clear, unwarped understanding of your internal dimensions, a heavy defeat is treated as data to be analyzed, not an indictment of your entire existence. 
+Before you fire someone, launch a dramatic reorg, or chase the next shiny strategy, ask yourself the uncomfortable question:
 
-In product craft and organizational leadership, you will face moments where the glass warps and the scores look catastrophic. 
+Are you making this change because it’s genuinely the right move — or are you just running away from the mirror?
 
-Before you search for an interim savior or execute an aggressive pivot, you must trace the anxiety back to its psychological root. Are you changing course because the strategy is genuinely flawed, or are you just running away from the terrifying mirror of self-knowledge?
-
-True authority stays level. Break the circus mirrors, confront the baseline, and measure your substance when the lights go down.
+True authority stays level-headed. Break the circus mirrors. Confront your real baseline. Do the quiet, difficult work when the lights are off and no one is watching.
