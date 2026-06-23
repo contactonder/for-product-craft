@@ -12,7 +12,7 @@ The contrast goes far beyond tactics.
 <div style="margin: 40px auto; max-width: 450px; text-align: center; border: 1px solid #eee; padding: 15px; border-radius: 4px; background: #fafafa;">
   <img src="{{ site.baseurl }}/images/02_Tunisia.png" alt="FIFA World Cup 2026" style="width: 100%; height: auto; border-radius: 2px;">
   <p style="margin: 10px 0 0 0; font-size: 0.85rem; color: #666; font-style: italic;">
-    Group Stages, Group F. "Tale of the two counties"
+    Group Stages, Group F. "Tale of the two countries"
   </p>
 </div>
 
