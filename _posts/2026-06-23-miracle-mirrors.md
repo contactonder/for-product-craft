@@ -1,40 +1,39 @@
 ---
 layout: post
-title: "Funhouse Mirrors: Why We Run From Self-Knowledge"
+title: "Know Thyself or Feed the Gladiators"
 ---
 
-When the Tunisian football federation sacked head coach Sabri Lamouchi right after a 5-1 opening loss to Sweden, they expected a reset. Days later, under an interim coach, they lost 4-0 to Japan.
+When the Tunisian football federation sacked head coach Sabri Lamouchi immediately after a 5-1 loss to Sweden, they expected a reset. Days later, under an interim coach, they lost 4-0 to Japan.
 
-Sweden, meanwhile, suffered an identical 5-1 thrashing later in the tournament — this time against the Netherlands. Their response? They kept their structure, stayed calm, and moved on.
+Sweden suffered an identical 5-1 thrashing later in the tournament against the Netherlands. Their response? They kept their structure, stayed calm, and moved forward.
 
-The difference wasn’t tactics. It was something deeper: the ability to face reality without panicking.
+The contrast goes far beyond tactics.
 
-**The Circus Mirror of the Ego**
+**The Mirror of Reality**
 
-Ancient Greeks carved “Know thyself” on the Temple of Delphi. It remains one of the hardest commands in human life. Real self-knowledge forces you to confront your actual limits, your institutional weaknesses, and your blind spots.
+Ancient Greeks put “Know thyself” on the Temple of Delphi for a reason. Real self-knowledge means clearly seeing your actual capabilities, limitations, and baseline — as an individual or as an organization.
 
-Most people and organizations prefer circus funhouse mirrors.
+Most of us, and most organizations, struggle with this. When results are bad, the pressure to *do something visible* becomes overwhelming. We prefer dramatic action over quiet, honest assessment.
 
-When things are going well, the mirror magnifies. A lucky market tailwind or one strong product launch gets interpreted as proof of genius. Leaders start believing they’re invincible.
+This is what happened with Tunisia. Sacking the coach was less about strategy and more like feeding a gladiator to the lions — a public sacrifice to appease the crowd and deflect from deeper issues. Even if the move had miraculously worked and Tunisia advanced, it would still have been the wrong approach. Based on their squad’s realistic level at the time, that would likely have been their ceiling. The sacking didn’t fix the system; it just changed the name on the door while the underlying problems remained.
 
-Then a crisis hits — a disastrous product launch, missed targets, or in Tunisia’s case, another heavy defeat. Suddenly the mirror shrinks you into a midget. The ego panics and demands a scapegoat.
+**Cultural Distortions**
 
-**Sacking the Reflection**
+Living between cultures has made this pattern especially clear to me. In some environments, pressure and external expectations trigger frantic, symbolic moves. Consistency and long-term rationality suffer. In others — like the Swedish setup — there is a steadier baseline. They separate a bad result from an existential threat. They assess reality first, then decide.
 
-This is why leadership changes so often feel frantic and ineffective. Firing the coach (or the Head of Product) is rarely a calm strategic move. It’s a psychological defense mechanism.
+One culture is quicker to sacrifice the visible leader. The other is more willing to sit with uncomfortable truths.
 
-By removing the person at the top, the organization can reassure itself: *The system isn’t broken. Our identity is solid. It was just that one guy.* 
+**The Product and Leadership Lesson**
 
-It’s the corporate version of smashing the mirror because you don’t like what you see. The name on the door changes, but the structural problems remain. Tunisia changed coaches and collapsed again. The rot was never addressed.
+This same dynamic plays out constantly in companies.
 
-**The Power of a Steady Baseline**
+A product launch flops. Revenue misses targets. Suddenly the Head of Product or the CEO is under fire. The organization feels the urge to “do something big” — reorg, pivot aggressively, or fire someone — to show action and calm the noise.
 
-Elite teams like Sweden don’t spiral because they’ve done the hard work of knowing themselves. They have a clear, undistorted view of their baseline capabilities. A bad result is treated as data, not an existential threat.
+But before you make that move, ask the harder question:
 
-In product and organizational leadership, you will face the same warped mirrors. Revenue misses. Failed launches. Team breakdowns.
+Are we changing course because we’ve honestly confronted our real capabilities and strategy?  
+Or are we just feeding the gladiators to make the crowd (board, investors, team) feel better?
 
-Before you fire someone, launch a dramatic reorg, or chase the next shiny strategy, ask yourself the uncomfortable question:
+True leadership is the ability to hold a steady baseline. To know what you actually are — not what the pressure of the moment wants you to pretend. To resist performative resets when the wiser move is quiet, disciplined work on the real system.
 
-Are you making this change because it’s genuinely the right move — or are you just running away from the mirror?
-
-True authority stays level-headed. Break the circus mirrors. Confront your real baseline. Do the quiet, difficult work when the lights are off and no one is watching.
+The mirror is always there. The question is whether you look into it honestly, or keep looking for someone to throw in front of the lions.
