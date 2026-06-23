@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Miracle Mirrors: Sacking the Coach and the Terror of Self-Knowledge"
+title: "Miracle Mirrors: the Terror of Self-Knowledge"
 ---
 
 When the Tunisian football federation sacked head coach Sabri Lamouchi immediately after a 5-1 opening match loss to Sweden, they expected a reset. Instead, under an interim replacement, they went down 4-0 to Japan just days later. 
