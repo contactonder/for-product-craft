@@ -9,6 +9,13 @@ Turkey lost. Then the team was eliminated after two games, with a brutal collect
 
 A flawless individual record. A collective failure. This is the Watermelon Effect.
 
+<div style="margin: 40px auto; max-width: 450px; text-align: center; border: 1px solid #eee; padding: 15px; border-radius: 4px; background: #fafafa;">
+  <img src="{{ site.baseurl }}/images/03_watermelon_effect.png" alt="Watermelon Effect" style="width: 100%; height: auto; border-radius: 2px;">
+  <p style="margin: 10px 0 0 0; font-size: 0.85rem; color: #666; font-style: italic;">
+    Everything looks green!"
+  </p>
+</div>
+
 **Green on the Outside**
 
 In corporate management, a *watermelon project* is one where every dashboard metric glows green. Engineers hit sprint velocity, designers deliver on time, individual contributors execute with precision.
