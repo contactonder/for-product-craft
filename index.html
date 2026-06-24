@@ -3,16 +3,21 @@ layout: default
 ---
 
 <div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
+  <ul class="posts-list" style="list-style: none; padding-left: 0; margin-top: 30px;">
+    {% for post in site.posts %}
+      <li class="post-item" style="margin-bottom: 25px; display: flex; justify-content: space-between; align-items: baseline; border-bottom: 1px dashed #eee; padding-bottom: 10px;">
+        
+        <h2 style="margin: 0; font-size: 1.25rem; font-weight: 600; max-width: 75%;">
+          <a href="{{ site.baseurl }}{{ post.url }}" style="text-decoration: none; color: #111;">
+            {{ post.title }}
+          </a>
+        </h2>
+        
+        <span class="post-date" style="color: #888; font-size: 0.9rem; font-variant-numeric: tabular-nums;">
+          {{ post.date | date: "%B %d, %Y" }}
+        </span>
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
+      </li>
+    {% endfor %}
+  </ul>
 </div>

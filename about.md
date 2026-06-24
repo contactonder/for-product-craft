@@ -17,4 +17,3 @@ This space is my digital playground. It’s where I break down product framework
 Feel free to reach out if you want to swap product war stories or nerd out about building something from zero to one.
 
 * **LinkedIn:** [Onder](https://www.linkedin.com/in/onder-ozcan-6b463033/)
-* **Email:** [Onder](mailto:onderr@gmail.com)
