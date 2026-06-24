@@ -10,7 +10,7 @@ Turkey lost. Then the team was eliminated after two games, with a brutal collect
 A flawless individual record. A collective failure. This is the Watermelon Effect.
 
 <div style="margin: 40px auto; max-width: 450px; text-align: center; border: 1px solid #eee; padding: 15px; border-radius: 4px; background: #fafafa;">
-  <img src="{{ site.baseurl }}/images/03_watermelon_effect.png" alt="Watermelon Effect" style="width: 100%; height: auto; border-radius: 2px;">
+  <img src="{{ site.baseurl }}/images/03_Watermelon_Effect.png" alt="Watermelon Effect" style="width: 100%; height: auto; border-radius: 2px;">
   <p style="margin: 10px 0 0 0; font-size: 0.85rem; color: #666; font-style: italic;">
     Everything looks green!
   </p>
