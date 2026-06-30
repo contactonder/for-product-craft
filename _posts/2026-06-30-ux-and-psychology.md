@@ -11,13 +11,13 @@ If you want to build products that people actually love using, you must stop des
 
 Learning psychology gives you a dual superpower. It helps you understand yourself as a creator and it helps you truly understand your customers.
 
-### 1. Understanding Ourselves: De-biasing the Creator
+### Understanding Ourselves: De-biasing the Creator
 
 As designers, product managers, or marketers, we fall into mental traps all the time. One of the biggest culprits in UX is the False Consensus Effect. This is our natural tendency to assume that everyone else thinks, navigates, and experiences the world exactly the way we do.
 
 When you study psychology, you learn to spot your own biases, such as Confirmation Bias, where you only look for data that proves your design is right. Understanding your own mind is the first step toward stepping outside of it.
 
-### 2. Understanding Our Customers: Designing for Reality
+### Understanding Our Customers: Designing for Reality
 
 When we look at a screen, our brains constantly filter out noise to save energy. Your customers are not intentionally ignoring your beautifully placed button. They might simply be experiencing Tunnel Vision or Change Blindness.
 
