@@ -9,9 +9,23 @@ The instructor explained that asking "Is Lisbon the capital of Portugal?" is eas
 
 On paper, it was perfect. So I tested it with an advanced AI model. The AI gave a confident, textbook perfect explanation.
 
+<div style="margin: 40px auto; max-width: 450px; text-align: center; border: 1px solid #eee; padding: 15px; border-radius: 4px; background: #fafafa;">
+  <img src="{{ site.baseurl }}/images/04_Portugal.png" alt="Lisbon and Portugal recognition test" style="width: 100%; height: auto; border-radius: 2px;">
+  <p style="margin: 10px 0 0 0; font-size: 0.85rem; color: #666; font-style: italic;">
+    Confidently correct on paper.
+  </p>
+</div>
+
 Then I challenged it: "Is Funafuti the capital of Tuvalu? Think hard."
 
 The machine immediately corrected itself.
+
+<div style="margin: 40px auto; max-width: 450px; text-align: center; border: 1px solid #eee; padding: 15px; border-radius: 4px; background: #fafafa;">
+  <img src="{{ site.baseurl }}/images/05_Tuvalu.png" alt="The Tuvalu anomaly check" style="width: 100%; height: auto; border-radius: 2px;">
+  <p style="margin: 10px 0 0 0; font-size: 0.85rem; color: #666; font-style: italic;">
+    The framework breaks under real-world constraints.
+  </p>
+</div>
 
 Here is the lesson. If a user has never heard of Tuvalu, no amount of beautiful typography will help them recognize Funafuti. They are left guessing.
 
