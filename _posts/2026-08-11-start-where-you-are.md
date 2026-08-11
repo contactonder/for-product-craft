@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Start Where You Are: Arthur Ashe, ITIL, and the Myth of Ideal Conditions"
+title: "What Tennis and ITIL Have in Common"
 ---
 
 We love to treat enterprise frameworks like sacred texts.
@@ -17,7 +17,7 @@ Whether you are stepping onto a tennis court or managing a chaotic service desk,
 
 Arthur Ashe did not win Grand Slams by waiting for perfect weather or opponent mistakes. If you lose the first set, you cannot replay it. You play the current point based on your current state.
 
-That mindset maps directly to the core [ITIL 4 Guiding Principles](https://www.peoplecert.org/browse-certifications/it-governance-and-service-management/ITIL-1/itil-4-foundation-2565):
+That mindset maps directly to the core [ITIL 4 Guiding Principles](https://www.atlassian.com/itsm/itil):
 
 1. **Start Where You Are:** In tennis, you play the ball from where it lands, not where you wish it dropped. In service management, you do not wipe the slate clean. You assess your current reality and build on what already works.
 2. **Use What You Have (Keep It Simple and Practical):** A player with modest gear and clear tactics will often outplay someone with expensive equipment and no strategy. Before buying new platforms, maximize the data, talent, and simple workflows already inside the business.
