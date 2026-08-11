@@ -12,7 +12,7 @@ It is easy to forget that the best guidance in service management is not new. Te
 *“Start where you are, use what you have, do what you can.”*
 
 <div style="margin: 40px auto; max-width: 450px; text-align: center; border: 1px solid #eee; padding: 15px; border-radius: 4px; background: #fafafa;">
-  <img src="{{ site.baseurl }}/images/07_arthur_ashe.png" alt="Britannica Editors. "Arthur Ashe". Encyclopedia Britannica, 6 Jul. 2026, Accessed 11 August 2026." style="width: 100%; height: auto; border-radius: 2px;">
+  <img src="{{ site.baseurl }}/images/07_arthur_ashe.png" alt="Britannica Editors. Arthur Ashe. Encyclopedia Britannica, 6 Jul. 2026, Accessed 11 August 2026." style="width: 100%; height: auto; border-radius: 2px;">
   <p style="margin: 10px 0 0 0; font-size: 0.85rem; color: #666; font-style: italic;">
    A history-making win: Arthur Ashe holding up his trophy after winning the singles title at Wimbledon, 1975.
   </p>
