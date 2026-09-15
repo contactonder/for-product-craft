@@ -9,6 +9,13 @@ The concept is **affordance**. It is the exact same framework architects use to 
 
 To understand how this applies to product management today, we have to look at the three evolutionary stages of the Affordance Chain.
 
+<div style="margin: 40px auto; max-width: 450px; text-align: center; border: 1px solid #eee; padding: 15px; border-radius: 4px; background: #fafafa;">
+  <img src="{{ site.baseurl }}/images/10_affordances.png" alt="Affordance Chain" style="width: 100%; height: auto; border-radius: 2px;">
+  <p style="margin: 10px 0 0 0; font-size: 0.85rem; color: #666; font-style: italic;">
+    The Evolution of Opportunity: From Forest Branches to SaaS Growth.
+  </p>
+</div>
+
 ### Evolutionary Stage 1: The Ecological Foundation (J. J. Gibson)
 
 James J. Gibson introduced the term over the course of the 1970s, settling it in his 1979 book *The Ecological Approach to Visual Perception*. His definition is precise: an affordance is "what it offers the animal, what it provides or furnishes," a possibility for action that exists in the relationship between a creature and its environment. A set of stairs affords climbing to an adult, but affords nothing to a crawling infant. The stairs do not change. The relationship does.
