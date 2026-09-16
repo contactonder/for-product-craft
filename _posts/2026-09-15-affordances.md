@@ -12,7 +12,7 @@ To understand how this applies to product management today, we have to look at t
 <div style="margin: 40px auto; max-width: 450px; text-align: center; border: 1px solid #eee; padding: 15px; border-radius: 4px; background: #fafafa;">
   <img src="{{ site.baseurl }}/images/10_affordances.png" alt="Affordance Chain" style="width: 100%; height: auto; border-radius: 2px;">
   <p style="margin: 10px 0 0 0; font-size: 0.85rem; color: #666; font-style: italic;">
-    The Evolution of Opportunity: From Forest Branches to SaaS Growth.
+    The Affordance Chain.
   </p>
 </div>
 
