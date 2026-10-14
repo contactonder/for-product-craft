@@ -10,7 +10,6 @@ For decades, software craftsmanship treated honesty as a matter of copy and pric
 In the agentic era, that neutrality has vanished. We are now building systems that simulate reasoning, take autonomous action, and speak with human politeness. In doing so, we have created a new kind of dishonesty: the illusion of certainty.
 
 ## The Performed Certainty of AI Agents
-
 When an AI agent takes an input, it does not experience doubt. It generates text based on probabilities. Yet the interfaces we wrap around these models are almost always designed to project total composure.
 
 Imagine an agent asked to summarize a forty page vendor contract. It returns a clean, confident summary with tidy headings and complete sentences. Buried on page thirty one is an unusual clause: the vendor can raise prices by 30% with only two weeks of notice. The agent did not flag it. It did not say it was unsure whether that clause mattered. The summary looked finished, so the manager signed. Nobody saw the problem until the first invoice arrived.
@@ -20,7 +19,6 @@ This is **Performed Certainty**: an interface that looks sure of itself whether 
 It is a failure of craftsmanship. It is the digital version of building a radio out of cheap plastic painted to look like brushed aluminum. The surface lies about the strength of what sits beneath it.
 
 ## The Friction of Admitting What You Do Not Know
-
 Traditional software design spent fifteen years removing friction. We celebrated one click actions, zero state onboarding, and background automation. We treated every modal, warning box, and confirmation step as a flaw to be optimized away.
 
 When software becomes agentic, removing friction without establishing honesty is dangerous. When an agent acts on behalf of a user, an invisible failure is far worse than a visible delay.
@@ -47,7 +45,6 @@ When software becomes agentic, removing friction without establishing honesty is
 Honest agent design means bringing back deliberate, strategic friction. If an agent is unsure about a data extraction step, the interface should look unsure. It should highlight the ambiguity in yellow, show the source document side by side, and ask a human to verify the inference before continuing.
 
 ## A Hard Problem: How Does the Agent Know?
-
 There is an obvious objection. How can an agent say "I am forty percent sure" when language models do not produce a reliable confidence number?
 
 This is a real challenge. The internal probabilities of a model are often **poorly calibrated**. (Calibration means that when a system says "80% sure," it is right about 80% of the time.) A confidence score shown on screen can become another form of performed certainty, a precise looking number with nothing solid behind it.
@@ -62,7 +59,6 @@ So good design should not depend on one magic number. It should combine practica
 None of these signals is perfect. Together, they are far more honest than a confident tone of voice.
 
 ## Designing the Confidence Spectrum
-
 How do you apply Rams' principle to an agentic workflow? You make confidence a visible part of the interface. But confidence alone is not enough. You need to ask two questions at the same time:
 
 1. **How sure is the agent?**
@@ -104,7 +100,6 @@ When a team designs this way, it builds a product that respects the user's intel
 </div>
 
 ## Trust Is Built on Exposed Weakness
-
 The temptation in product management is always to make the technology look more capable than it is. We want smooth demos where the agent does the whole job from start to finish without a single hitch.
 
 That habit worked when software was deterministic. (Deterministic means the same input always gives the same output.) It fails when software is probabilistic, because the output can be wrong in ways nobody predicted.
