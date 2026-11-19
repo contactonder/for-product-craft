@@ -75,8 +75,6 @@ Saying “will not” is one thing. Keeping it when the pressure rises is anothe
 
 Changing your mind is healthy when new evidence arrives. It is a failure when only the pressure in the room changes. Caesar’s reversal had no new evidence. It had a new interpretation from an interested party, a promised prize, and a fear of looking afraid. The room changed.
 
-In an earlier post, [Is Raising ACV the First Question?](https://contactonder.github.io/for-product-craft/acv/), I wrote that you should pull one lever until it is no longer the constraint, and then ask again. That sentence is a decision to say no to other levers for now. It only holds if the team does not fold the moment someone pushes harder.
-
 Before you reverse a decision, write one sentence: **What is the new evidence?** If you cannot write it, you are reacting to the room. A roadmap that changes every week teaches a team that no never means no.
 
 <div style="margin: 40px auto; max-width: 450px; text-align: center; border: 1px solid #eee; padding: 15px; border-radius: 4px; background: #fafafa;">
@@ -92,4 +90,4 @@ A real no does not need volume. It needs a reason that belongs to you, even when
 
 Say “will not” when it is a choice. Mean it when the pressure starts.
 
-**Source:** William Shakespeare, *Julius Caesar*, Act 2, Scene 2.
+**Source:** [William Shakespeare, Julius Caesar, Act 2, Scene 2.](https://www.folger.edu/explore/shakespeares-works/julius-caesar/read/2/2/#line-2.2.65)
