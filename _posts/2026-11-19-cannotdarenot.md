@@ -5,6 +5,12 @@ title: 'Cannot Is False'
 
 I recently visited Stratford upon Avon, the town where Shakespeare was born. The whole place seems to live and breathe him. His quotes, plays, and scenes meet you at every turn.
 
+<div style="margin: 40px auto; max-width: 450px; text-align: center; border: 1px solid #eee; padding: 15px; border-radius: 4px; background: #fafafa;">
+  <img src="{{ site.baseurl }}/images/18_cannot_01.jpeg" alt="Stratford" style="width: 100%; height: auto; border-radius: 2px;">
+  <p style="margin: 10px 0 0 0; font-size: 0.85rem; color: #666; font-style: italic;">
+  </p>
+</div>
+
 After a day of it, one passage stayed with me, and it was not about love or murder. It was a refusal. In *Julius Caesar*, Act 2, Scene 2, Caesar sends word to the Senate that he will not come. He rejects two easy excuses, saying that claiming he cannot would be false, and that claiming he dares not would be falser.
 
 That short exchange describes a skill product teams struggle with: saying no on purpose.
@@ -58,6 +64,12 @@ Caesar names three kinds of refusal: “cannot,” “dare not,” and “will n
 
 “Cannot” and “dare not” are comfortable because they make the decision look like it belongs to circumstances. “Will not” makes you the author, and the author has to explain.
 
+<div style="margin: 40px auto; max-width: 450px; text-align: center; border: 1px solid #eee; padding: 15px; border-radius: 4px; background: #fafafa;">
+  <img src="{{ site.baseurl }}/images/18_cannot_03.jpeg" alt="Stratford" style="width: 100%; height: auto; border-radius: 2px;">
+  <p style="margin: 10px 0 0 0; font-size: 0.85rem; color: #666; font-style: italic;">
+  </p>
+</div>
+
 ## The Test: Did the Evidence Change, or Did the Room?
 Saying “will not” is one thing. Keeping it when the pressure rises is another.
 
@@ -66,6 +78,12 @@ Changing your mind is healthy when new evidence arrives. It is a failure when on
 In an earlier post, [Is Raising ACV the First Question?](https://contactonder.github.io/for-product-craft/acv/), I wrote that you should pull one lever until it is no longer the constraint, and then ask again. That sentence is a decision to say no to other levers for now. It only holds if the team does not fold the moment someone pushes harder.
 
 Before you reverse a decision, write one sentence: **What is the new evidence?** If you cannot write it, you are reacting to the room. A roadmap that changes every week teaches a team that no never means no.
+
+<div style="margin: 40px auto; max-width: 450px; text-align: center; border: 1px solid #eee; padding: 15px; border-radius: 4px; background: #fafafa;">
+  <img src="{{ site.baseurl }}/images/18_cannot_02.jpeg" alt="Stratford" style="width: 100%; height: auto; border-radius: 2px;">
+  <p style="margin: 10px 0 0 0; font-size: 0.85rem; color: #666; font-style: italic;">
+  </p>
+</div>
 
 ## The Cause Is in My Will
 In a town full of famous lines, this is not the one on the souvenirs. But it stays with you, because it is incomplete. Caesar said no with force, and it did not last the scene.
