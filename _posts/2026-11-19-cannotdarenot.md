@@ -9,7 +9,7 @@ After a day of it, one passage stayed with me, and it was not about love or murd
 
 That short exchange describes a skill product teams struggle with: saying no on purpose.
 
-## The Scene in One Minute
+## The Scene in Oneeee Minute
 It is the morning of the Ides of March. Calpurnia, Caesar’s wife, has had a nightmare and begs him not to go to the Senate. Under her pleading, he gives in and agrees to stay home.
 
 When Decius Brutus arrives to fetch him, Caesar gives him a direct message for the senators:
